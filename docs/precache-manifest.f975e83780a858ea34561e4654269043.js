@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "277be71fb62a55acf3ca",
-    "url": "/BFCompanion/css/about.f6e199c1.css"
+    "revision": "deac4ed81febcb4742fd",
+    "url": "/BFCompanion/css/about.b7092b1c.css"
   },
   {
-    "revision": "5de3925e1948ea4483c1",
+    "revision": "f519453ab6cb0979c3e2",
     "url": "/BFCompanion/css/app.d5114d0f.css"
   },
   {
@@ -176,16 +176,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BFCompanion/img/ur-025.2b9f26f8.png"
   },
   {
-    "revision": "e26ebfb68832fb87fda28ca73e3a152e",
+    "revision": "d487b5fa144fd6f932908bd610704c7f",
     "url": "/BFCompanion/index.html"
   },
   {
-    "revision": "277be71fb62a55acf3ca",
-    "url": "/BFCompanion/js/about.eb47edec.js"
+    "revision": "deac4ed81febcb4742fd",
+    "url": "/BFCompanion/js/about.47016530.js"
   },
   {
-    "revision": "5de3925e1948ea4483c1",
-    "url": "/BFCompanion/js/app.1497fc53.js"
+    "revision": "f519453ab6cb0979c3e2",
+    "url": "/BFCompanion/js/app.9a361a5b.js"
   },
   {
     "revision": "745f744c7ea24a918f65",

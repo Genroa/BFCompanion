@@ -44,6 +44,7 @@
                               v-model="participatingHeroeIds"
                             >
                             <v-chip
+                                dark
                                 v-for="hero in heroesInParty"
                                 :key="hero.id"
                                 :value="hero.id"

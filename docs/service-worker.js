@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BFCompanion/precache-manifest.26ca435788323b3ef5c5725dd355768a.js"
+  "/BFCompanion/precache-manifest.f975e83780a858ea34561e4654269043.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bfcompanion"});
