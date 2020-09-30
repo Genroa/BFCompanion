@@ -1,9 +1,13 @@
 module.exports = {
-	transpileDependencies: [
+    publicPath: '/BFCompanion/',
+
+    transpileDependencies: [
 		'vuetify'
 	],
 
-	pwa: {
+    pwa: {
 		name: 'Blackstone Fortress Companion'
-	}
+	},
+
+    outputDir: 'docs'
 }
